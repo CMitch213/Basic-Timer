@@ -1,0 +1,7 @@
+v1.0:
+
+- Made basic timer.
+
+v.1.1
+
+- Added error to catch negatives.
